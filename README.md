@@ -1,0 +1,1 @@
+My second repository, dedicated to mastering Git and GitHub fundamentals based on the Apna College video tutorial. This repository is specifically focused on practicing and executing local repository commands. Link to the video tutorial: https://youtu.be/Ez8F0nW6S-w?si=JeJA-hv2gcWEnewe
